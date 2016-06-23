@@ -3,7 +3,19 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/wamp64/www/inventory/resources/views/auth/register.blade.php</file>
+            <file>file:/C:/wamp64/www/inventory/app/Http/Controllers/Auth/PasswordController.php</file>
+            <file>file:/C:/wamp64/www/inventory/app/Http/Middleware/Authenticate.php</file>
+            <file>file:/C:/wamp64/www/inventory/resources/views/auth/login.blade.php</file>
             <file>file:/C:/wamp64/www/inventory/vendor/autoload.php</file>
+            <file>file:/C:/wamp64/www/inventory/app/Http/Requests/Request.php</file>
+            <file>file:/C:/wamp64/www/inventory/config/auth.php</file>
+            <file>file:/C:/wamp64/www/inventory/app/Http/Controllers/Auth/AuthController.php</file>
+            <file>file:/C:/wamp64/www/inventory/resources/views/home.blade.php</file>
+            <file>file:/C:/wamp64/www/inventory/app/User.php</file>
+            <file>file:/C:/wamp64/www/inventory/resources/views/welcome.blade.php</file>
+            <file>file:/C:/wamp64/www/inventory/app/Admin.php</file>
+            <file>file:/C:/wamp64/www/inventory/app/Http/routes.php</file>
         </group>
     </open-files>
 </project-private>
